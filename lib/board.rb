@@ -5,7 +5,7 @@ class Board
     puts "-----------"
     puts "   |   |   "
     puts "-----------"
-    puts "   |   |
+    puts "   |   |   ""
   end
 
   def cells
