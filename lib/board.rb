@@ -1,6 +1,6 @@
 class Board
 
-  def initialize
+  def initialize(player_1,player_2)
     puts "   |   |   "
     puts "-----------"
     puts "   |   |   "
